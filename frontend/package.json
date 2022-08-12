@@ -41,7 +41,10 @@
     "react-slick": "^0.29.0",
     "slick-carousel": "^1.8.1",
     "sweetalert2": "^11.4.17",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "autoprefixer": "^10.0.2",
+    "postcss": "^8.1.7",
+    "postcss-loader": "^4.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
