@@ -5,7 +5,7 @@ El sitio web es un booking de hospedajes donde tendrás dos tipos de usuarios ("
 
 Fue un proyecto integrador grupal, donde trabajamos en equipo de 6 desarrolladores utilizando metodologías ágiles como Scrum. El frontend cuenta con versiones Web, Tablet y Mobile y se consume una api desarrollada en JAVA, el deploy se realizó en AWS, testeado con métodos de caja negra y caja blanca.
 
-# Deploy
+## Deploy
 - Frontend: https://digital-booking-fp.vercel.app/
 
 ## Tecnologías & herramientas utilizadas 
